@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Researches"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Control Science and Engineering, Tsinghua University, 2020
+* B.Eng. in Detection Guidance and Control Technology, Beijing Institute of Technology, 2015
 
-Work experience
+Projects
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Indirect monitoring data-driven remaining useful life prediction for blast furnace cooling systems (Principal Investigator, Funded by National Natural Science Foundation of China, 2022.01-2024.12)
+* Multi-modal data-driven remaining useful life prediction for blast furnace hearths (Principal Investigator, Funded by Shandong Provincial Natural Science Foundation, 2022.01-2024.12)
+* Non-stationary degradation modeling based remaining useful life prediction and maintenance for blast furnace walls (Principal Investigator, Funded by Qingdao Post-doctoral Applied Research Project, 2021.01-2022.12)
