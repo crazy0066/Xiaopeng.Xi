@@ -9,17 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="text-align: justify;">
-
 Main Projects
 ======
-* Indirect monitoring data-driven remaining useful life prediction for blast furnace cooling systems (Principal Investigator, Funded by National Natural Science Foundation of China)
-* Multi-modal data-driven remaining useful life prediction for blast furnace hearths (Principal Investigator, Funded by Shandong Provincial Natural Science Foundation)
-* Non-stationary degradation modeling based remaining useful life prediction and maintenance for blast furnace walls (Principal Investigator, Funded by Qingdao Post-doctoral Applied Research Project)
-* Running status monitoring and test verification for traction drive systems of high-speed train (Participant, Funded by National Natural Science Foundation of China)
-* Sensor fault diagnosis and application verification for a class of nonlinear systems under strong disturbance (Participant, Funded by National Natural Science Foundation of China)
-* Big data-driven fault detection: improved PCA and PLS methods (Participant, Funded by National Natural Science Foundation of China)
-* Intelligent prediction and self-healing control for abnormal working conditions of large generator sets (Participant, Funded by National Natural Science Foundation of China)
+* <p style="text-align: justify;">
+  Indirect monitoring data-driven remaining useful life prediction for blast furnace cooling systems (Principal Investigator, Funded by National Natural Science Foundation of China)
+  </p>
+* <p style="text-align: justify;">
+  Multi-modal data-driven remaining useful life prediction for blast furnace hearths (Principal Investigator, Funded by Shandong Provincial Natural Science Foundation)
+  </p>
+* <p style="text-align: justify;">
+  Non-stationary degradation modeling based remaining useful life prediction and maintenance for blast furnace walls (Principal Investigator, Funded by Qingdao Post-doctoral Applied Research Project)
+  </p>
+* <p style="text-align: justify;">
+  Running status monitoring and test verification for traction drive systems of high-speed train (Participant, Funded by National Natural Science Foundation of China)
+  </p>
+* <p style="text-align: justify;">
+  Sensor fault diagnosis and application verification for a class of nonlinear systems under strong disturbance (Participant, Funded by National Natural Science Foundation of China)
+  </p>
+* <p style="text-align: justify;">
+  Big data-driven fault detection: improved PCA and PLS methods (Participant, Funded by National Natural Science Foundation of China)
+  </p>
+* <p style="text-align: justify;">
+  Intelligent prediction and self-healing control for abnormal working conditions of large generator sets (Participant, Funded by National Natural Science Foundation of China)
+  </p>
 
 Research Areas
 ======
@@ -36,7 +48,7 @@ Research Areas
 * <p style="text-align: justify;">
   <strong>Non-Markovian stochastic degradation process modeling and prognostics:</strong> Some practical systems such as blast furnaces and turbofan engines have degradation processes with memory effects. The term of memory effects implies that the future states of the
 degradation processes depend on both the current state and the past states because of the interaction with environments. However, most works generally used a memoryless Markovian process to model the degradation processes. To characterize the memory effects in practical systems, we develop a new type of degradation model, in which the diffusion is represented as a fractional Brownian motion (FBM). FBM is actually a special non-Markovian process with long-term dependencies. Based on the monitored data, a Monte Carlo method is used to predict the RUL.
-</p>
+  </p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig5.png" alt="fig5" width="440" style="height:auto;">
@@ -46,7 +58,7 @@ degradation processes depend on both the current state and the past states becau
 
 * <p style="text-align: justify;">
   <strong>Model and data dual-driven fault diagnosis:</strong> A novel model and data dual-driven fault diagnosis approach is proposed for satellite ACSs. Firstly, an Hi/H∞ optimization-based fault detection filter is considered as a residual generator, which is designed to be robust against disturbance and sensitive to a fault. Then, the occurrence of a fault can be detected based on the residual evaluation. Eventually, a random forest (RF) algorithm is developed to achieve fault isolation with system input–output and residual signals.
-</p>
+  </p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig3.png" alt="fig3" width="520" style="height:auto;">
