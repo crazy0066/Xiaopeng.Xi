@@ -27,3 +27,8 @@ Main Projects
 Awards
 ======
 * Synchronous control and running safety monitoring theory of complicated cyber-physical group systems, Chinese Association of Automation Natural Science Award, 2019
+
+Research Areas
+======
+* Remaining useful life prediction via long short-term memory networks
+
