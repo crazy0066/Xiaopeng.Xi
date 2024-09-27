@@ -21,6 +21,4 @@ I had published more than 20 research papers on the topic of stochastic degradat
 
 For more info
 ------
-<p style="text-align: justify;">
 More info about my research works can be found in [the Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194855859).
-</p>
