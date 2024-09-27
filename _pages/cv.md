@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="text-align: justify;">
+
 Main Projects
 ======
 * Indirect monitoring data-driven remaining useful life prediction for blast furnace cooling systems (Principal Investigator, Funded by National Natural Science Foundation of China)
