@@ -32,5 +32,7 @@ Research Areas
 ======
 * Remaining useful life prediction via long short-term memory networks: A novel two-stage LSTM-TDNN-based RUL predictor is proposed for complicated industrial equipment. A set of nonlinear HI functions are constructed to guide LSTM model building. Compared with the traditional feature fusion-based HI construction methods, the proposed approach considers various degradation rates and can be applied to a variety of working conditions. A series of LSTMs are used to build the mapping relations from individual time-series feature sets to the HIs, aligning time scales of data and solving the problem of unequal length sequences to some extent. By introducing the TDNN stage, the historical information of HI in a finite time window is fused to achieve further refinement of prediction.
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig1.png" alt="Architecture of the proposed LSTM-TDNN-based RUL predictor" height="300">
 <img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig2.png" alt="Comparison of RUL prediction results between one-stage and two-stage approaches" height="300">
+</p>
