@@ -29,7 +29,8 @@ Research Areas
 </p>
 <p align="center">Architecture of the RUL predictor (left). Comparison of RUL prediction results (right).</p>
 
-* <strong>Non-Markovian stochastic degradation process modeling and prognostics:</strong> 
+* <strong>Non-Markovian stochastic degradation process modeling and prognostics:</strong> Some practical systems such as blast furnaces and turbofan engines have degradation processes with memory effects. The term of memory effects implies that the future states of the
+degradation processes depend on both the current state and the past states because of the interaction with environments. However, most works generally used a memoryless Markovian process to model the degradation processes. To characterize the memory effects in practical systems, we develop a new type of degradation model, in which the diffusion is represented as a fractional Brownian motion (FBM). FBM is actually a special non-Markovian process with long-term dependencies. Based on the monitored data, a Monte Carlo method is used to predict the RUL.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig5.png" alt="fig5" width="400" style="height:auto;">
