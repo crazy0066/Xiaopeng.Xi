@@ -33,8 +33,8 @@ Research Areas
 degradation processes depend on both the current state and the past states because of the interaction with environments. However, most works generally used a memoryless Markovian process to model the degradation processes. To characterize the memory effects in practical systems, we develop a new type of degradation model, in which the diffusion is represented as a fractional Brownian motion (FBM). FBM is actually a special non-Markovian process with long-term dependencies. Based on the monitored data, a Monte Carlo method is used to predict the RUL.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig5.png" alt="fig5" width="400" style="height:auto;">
-<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig6.png" alt="fig6" width="500" style="height:auto;">
+<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig5.png" alt="fig5" width="440" style="height:auto;">
+<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig6.png" alt="fig6" width="440" style="height:auto;">
 </p>
 <p align="center">Temperature degradation path of a blast furnace (left). RUL prediction results with C-MAPSS data (right).</p>
 
