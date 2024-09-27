@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Control Science and Engineering, Tsinghua University, 2020
-* B.Eng. in Detection Guidance and Control Technology, Beijing Institute of Technology, 2015
-
 Main Projects
 ======
 * Indirect monitoring data-driven remaining useful life prediction for blast furnace cooling systems (Principal Investigator, Funded by National Natural Science Foundation of China)
@@ -23,10 +18,6 @@ Main Projects
 * Sensor fault diagnosis and application verification for a class of nonlinear systems under strong disturbance (Participant, Funded by National Natural Science Foundation of China)
 * Big data-driven fault detection: improved PCA and PLS methods (Participant, Funded by National Natural Science Foundation of China)
 * Intelligent prediction and self-healing control for abnormal working conditions of large generator sets (Participant, Funded by National Natural Science Foundation of China)
-
-Awards
-======
-* Synchronous control and running safety monitoring theory of complicated cyber-physical group systems, Chinese Association of Automation Natural Science Award, 2019
 
 Research Areas
 ======
@@ -46,3 +37,4 @@ achieve fault isolation with system input–output and residual signals.
 <img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig4.png" alt="fig4" width="390" style="height:auto;">
 </p>
 <p align="center">Flowchart of model and data dual-driven method (left). Fault detection results of triple faults (right).</p>
+
