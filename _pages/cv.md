@@ -40,3 +40,9 @@ Research Areas
 
 * <strong>Model and data dual-driven fault diagnosis:</strong> A novel model and data dual-driven fault diagnosis approach is proposed for satellite ACSs. Firstly, an Hi/H∞ optimization-based fault detection filter is considered as a residual generator, which is designed to be robust against disturbance and sensitive to a fault. Then, the occurrence of a fault can be detected based on the residual evaluation. Eventually, a random forest (RF) algorithm is developed to
 achieve fault isolation with system input–output and residual signals.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig3.png" alt="fig3" width="400" style="height:auto;">
+<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig4.png" alt="fig4" width="400" style="height:auto;">
+</p>
+<p align="center">Flowchart of model and data dual-driven method (left). Fault detection results of triple faults (right).</p>
