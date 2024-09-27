@@ -42,7 +42,7 @@ Research Areas
 achieve fault isolation with system input–output and residual signals.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig3.png" alt="fig3" width="400" style="height:auto;">
+<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig3.png" alt="fig3" width="500" style="height:auto;">
 <img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig4.png" alt="fig4" width="400" style="height:auto;">
 </p>
 <p align="center">Flowchart of model and data dual-driven method (left). Fault detection results of triple faults (right).</p>
