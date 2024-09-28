@@ -85,10 +85,10 @@ Applications
 <p align="center">
 <img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig8.png" alt="fig8" width="900" style="height:auto;">
 </p>
-<p align="center">Examples of.</p>
+<p align="center">Examples of blast furnace accident, erosion failure, and thermocouple layout.</p>
 
 * <p style="text-align: justify;">
-  <strong>Fault classification of satellite attitude control systems:</strong> A.
+  <strong>Fault classification of satellite attitude control systems:</strong> The attitude control system (ACS, consisting of an attitude controller, attitude sensors, and actuators) plays a vital role in the completion of on-orbit tasks. The fast attitude maneuver and stabilization of the satellite can be accomplished by the cooperation of the above components. Since ACS is a typical closed-loop control system, such a closed-loop design for accuracy improvement and disturbances suppression brings challenges to fault classification due to the fault propagation and tolerance. The main focus is to deal with the problem of fault diagnosis for ACS based on both residual signals and system input–output data, considering actuator faults (i.e., the faults of momentum wheels) and sensor faults (i.e., the faults of star sensors and gyroscopes).
   </p>
 
  <p align="center">
