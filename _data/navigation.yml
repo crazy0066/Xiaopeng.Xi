@@ -21,7 +21,7 @@ main:
     url: /portfolio/
         
   - title: "News"
-    url: /year-archive/
+    url: /news/
     
   - title: "Contact"
     url: /markdown/
