@@ -79,7 +79,7 @@ Applications
 <p align="center">Examples of IGBT failure and traction motor fault.</p>
 
 * <p style="text-align: justify;">
-  <strong>Remaining useful life prediction of blast furnace walls:</strong> A.
+  <strong>Remaining useful life prediction of blast furnace walls:</strong> Steel production is an important index to measure the level of industrialization of a country. As a kind of reaction vessel gradually evolved from shaft furnace, large blast furnace (with the volume greater than 1000m3) has a long design life and a high risk of failure along with irreversible erosion of hearth, bottom, cooling wall and other key areas.
   </p>
 
 <p align="center">
