@@ -82,9 +82,16 @@ Applications
   <strong>Remaining useful life prediction of blast furnace walls:</strong> A.
   </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig8.png" alt="fig8" width="900" style="height:auto;">
+</p>
+<p align="center">Examples of.</p>
 
 * <p style="text-align: justify;">
   <strong>Fault classification of satellite attitude control systems:</strong> A.
   </p>
 
-  
+ <p align="center">
+<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig9.png" alt="fig9" width="900" style="height:auto;">
+</p>
+<p align="center">Examples of.</p> 
