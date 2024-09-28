@@ -70,7 +70,7 @@ degradation processes depend on both the current state and the past states becau
 Applications
 ======
 * <p style="text-align: justify;">
-  <strong>Health status assessment for traction drive systems of high-speed train:</strong> A.
+  <strong>Health status assessment for traction drive systems of high-speed train:</strong> High-speed trains are regarded as important transportation with high demands of safe operation. The traction drive systems of high-speed train mainly consist of traction transformer, traction converter, traction motor, gearbox, and wheel set. Subjected to the multi-physical field coupling effect and the multiple working conditions, it is very challenging to dynamically assess the health status of the critical components of traction drive systems.
   </p>
 
 
