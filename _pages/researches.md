@@ -66,3 +66,9 @@ degradation processes depend on both the current state and the past states becau
 </p>
 <p align="center">Flowchart of model and data dual-driven method (left). Fault detection results of triple faults (right).</p>
 
+
+Applications
+======
+* <p style="text-align: justify;">
+  <strong>D:</strong> A.
+  </p>
