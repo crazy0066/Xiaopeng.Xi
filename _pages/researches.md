@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/d75fa5f8-e8e6-4f74-9440-ad04b0685122)---
 layout: archive
 title: ""
 permalink: /researches/
@@ -75,9 +75,8 @@ Applications
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig7.png" alt="fig7" width="520" style="height:auto;">
-<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig8.png" alt="fig8" width="390" style="height:auto;">
 </p>
-<p align="center">Flowchart of (left). Fault (right).</p>
+<p align="center">Examples of IGBT failure and traction motor fault.</p>
 
 * <p style="text-align: justify;">
   <strong>Remaining useful life prediction of blast furnace walls:</strong> A.
