@@ -74,7 +74,7 @@ Applications
   </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig7.png" alt="fig7" width="520" style="height:auto;">
+<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig7.png" alt="fig7" width="900" style="height:auto;">
 </p>
 <p align="center">Examples of IGBT failure and traction motor fault.</p>
 
