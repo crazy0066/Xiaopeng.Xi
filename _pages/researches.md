@@ -40,8 +40,8 @@ Research Areas
   </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig1.png" alt="Architecture of the proposed LSTM-TDNN-based RUL predictor" width="400" style="height:auto;">
-<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig2.png" alt="Comparison of RUL prediction results between one-stage and two-stage approaches" width="500" style="height:auto;">
+<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig1.png" alt="fig1" width="400" style="height:auto;">
+<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig2.png" alt="fig2" width="500" style="height:auto;">
 </p>
 <p align="center">Architecture of the RUL predictor (left). Comparison of RUL prediction results (right).</p>
 
@@ -70,10 +70,14 @@ degradation processes depend on both the current state and the past states becau
 Applications
 ======
 * <p style="text-align: justify;">
-  <strong>Health status assessment for traction drive systems of high-speed train:</strong> High-speed trains are regarded as important transportation with high demands of safe operation. The traction drive systems of high-speed train mainly consist of traction transformer, traction converter, traction motor, gearbox, and wheel set. Subjected to the multi-physical field coupling effect and the multiple working conditions, it is very challenging to dynamically assess the health status of the critical components of traction drive systems.
+  <strong>Health status assessment for traction drive systems of high-speed train:</strong> High-speed trains are regarded as important transportation with high demands of safe operation. The traction drive systems of high-speed train mainly consist of traction transformer, traction converter, traction motor, gearbox, and wheel set. Subjected to the multi-physical field coupling effect and the multiple working conditions, it is very challenging to dynamically assess the health status of the critical components of traction drive systems. The major mission is to capture the degradation behavior of each component and estimate the health indicator of the system via deep learning methods.
   </p>
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig7.png" alt="fig7" width="520" style="height:auto;">
+<img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig8.png" alt="fig8" width="390" style="height:auto;">
+</p>
+<p align="center">Flowchart of (left). Fault (right).</p>
 
 * <p style="text-align: justify;">
   <strong>Remaining useful life prediction of blast furnace walls:</strong> A.
