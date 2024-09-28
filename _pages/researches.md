@@ -94,4 +94,4 @@ Applications
  <p align="center">
 <img src="https://raw.githubusercontent.com/crazy0066/Xiaopeng.Xi/refs/heads/master/images/fig9.png" alt="fig9" width="900" style="height:auto;">
 </p>
-<p align="center">Examples of.</p> 
+<p align="center">Schematic of ACS and system fault plan design software .</p> 
