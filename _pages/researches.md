@@ -70,5 +70,18 @@ degradation processes depend on both the current state and the past states becau
 Applications
 ======
 * <p style="text-align: justify;">
-  <strong>D:</strong> A.
+  <strong>Health status assessment for traction drive systems of high-speed train:</strong> A.
   </p>
+
+
+
+* <p style="text-align: justify;">
+  <strong>Remaining useful life prediction of blast furnace walls:</strong> A.
+  </p>
+
+
+* <p style="text-align: justify;">
+  <strong>Fault classification of satellite attitude control systems:</strong> A.
+  </p>
+
+  
