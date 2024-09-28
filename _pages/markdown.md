@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /contact/
 title: "Xiaopeng Xi"
 author_profile: true
 redirect_from: 
