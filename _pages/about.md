@@ -16,7 +16,7 @@ My research interests include condition monitoring, prognostics, nonlinear model
 </p>
 
 <p style="text-align: justify;">
-I had published more than 20 research papers on the topic of stochastic degradation modeling, health index analysis, and remaining useful life prediction, including the SCI papers in IEEE Transactions on Reliability, Mechanical Systems and Signal Processing, Science China Information Sciences, etc. I have 2 Chinese invention patents, and was awarded the second prize of Chinese Association of Automation (CAA) Natural Science Award in 2019. I am the referee of multiple international journals, such as IEEE Transactions on Industrial Informatics, Reliability Engineering & System Safety, IEEE Transactions on Fuzzy Systems, and IEEE/CAA Journal of Automatica Sinica.
+I had published more than 20 research papers on the topic of stochastic degradation modeling, health index analysis, and remaining useful life prediction, including the SCI papers in IEEE Transactions on Reliability, Mechanical Systems and Signal Processing, Science China Information Sciences, etc. I have 2 Chinese invention patents, and was awarded the Chinese Association of Automation Natural Science Award in 2019. I am the referee of multiple international journals, such as IEEE Transactions on Industrial Informatics, Reliability Engineering & System Safety, IEEE Transactions on Fuzzy Systems, and IEEE/CAA Journal of Automatica Sinica.
 </p>
 
 For more info
