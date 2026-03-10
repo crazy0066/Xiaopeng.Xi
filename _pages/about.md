@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am Xiaopeng Xi, Post-doctoral researcher from the Department of Mechanical Engineering, Seoul National University. I received my doctoral degree from the Department of Automation, Tsinghua University.
+I am Xiaopeng Xi, post-doctoral researcher from the Department of Mechanical Engineering, Seoul National University. I received my doctoral degree from the Department of Automation, Tsinghua University.
 </p>
 
 <p style="text-align: justify;">
