@@ -8,15 +8,15 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am Xiaopeng Xi, Post-doctoral researcher from the Department of Mechanical Engineering, Seoul National University, Seoul, Republic of Korea. I had received my doctoral degree from the Department of Automation, Tsinghua University, Beijing, China.
+I am Xiaopeng Xi, Post-doctoral researcher from the Department of Mechanical Engineering, Seoul National University. I received my doctoral degree from the Department of Automation, Tsinghua University.
 </p>
 
 <p style="text-align: justify;">
-My research interests include condition monitoring, prognostics, nonlinear modeling and data analytics. I have presided over or participated in more than 10 national or provincial projects, such as National Natural Science Foundation of China for Young Scholars (PI), Shandong Provincial Natural Science Foundation for Young Scholars (PI), etc. The application scenarios contain blast furnace, high speed train, generator set, control moment gyro, etc.
+My research interests include condition monitoring, fault diagnosis, and prognostics. I have presided over or participated in more than 10 national or provincial projects. The application scenarios contain blast furnace, high speed train, generator set, control moment gyro, etc.
 </p>
 
 <p style="text-align: justify;">
-I had published more than 30 research papers on the topic of stochastic degradation modeling, health index analysis, and remaining useful life prediction, including the SCI papers in IEEE Transactions on Reliability, Mechanical Systems and Signal Processing, Science China Information Sciences, etc. I was awarded the Chinese Association of Automation Natural Science Award in 2019. I am the referee of multiple international journals, such as IEEE Transactions on Industrial Informatics, Reliability Engineering & System Safety.
+I had published more than 30 research papers, including the SCI papers in IEEE Transactions on Reliability, Mechanical Systems and Signal Processing, etc. I was awarded the 2019 Chinese Association of Automation Natural Science Award.
 </p>
 
 For more info
