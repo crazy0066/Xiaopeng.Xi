@@ -12,11 +12,11 @@ I am Xiaopeng Xi, post-doctoral researcher from the Department of Mechanical Eng
 </p>
 
 <p style="text-align: justify;">
-My research interests include condition monitoring, fault diagnosis, and prognostics. I have presided over or participated in more than 10 national or provincial projects. The application scenarios contain blast furnace, high speed train, generator set, control moment gyro, etc.
+My research interests include condition monitoring, fault diagnosis, and prognostics. I have presided over or participated in more than 10 national or provincial projects. The application scenarios contain blast furnace, high speed train, generator set, etc.
 </p>
 
 <p style="text-align: justify;">
-I had published more than 30 research papers, including the SCI papers in IEEE Transactions on Reliability, Mechanical Systems and Signal Processing, etc. I was awarded the 2019 Chinese Association of Automation Natural Science Award.
+I had published more than 40 research papers, including the SCI papers in IEEE Transactions on Reliability, Mechanical Systems and Signal Processing, etc. I was awarded the Natural Science Award of the Chinese Association of Automation in 2019.
 </p>
 
 For more info
